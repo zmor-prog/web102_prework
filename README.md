@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 The work description for the JS code were a bit of a challenge and it was very helpful having the visuals added to get to the next steps. For the goal to be achieved, the visuals would be more helpful first with the description included underneath it. 
 
-Describe any challenges encountered while building the app.
+Moving forward, I see a cleaner way of implementing JS code. 
 
 ## License
 
