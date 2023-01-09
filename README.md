@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![seamonstercrowdingv2](https://user-images.githubusercontent.com/65875304/211232183-0ce8b176-fe1d-4782-9b6a-7402d74fefee.gif)
+
+![seamonstercrowdingv2](https://user-images.githubusercontent.com/65875304/211232247-610a6146-e109-4d64-97c2-e433da688262.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
